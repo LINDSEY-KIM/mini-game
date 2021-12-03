@@ -1,1 +1,1 @@
-# mini-game
+# mini_game_1
